@@ -35,5 +35,3 @@ css:
       - 'nav a'
       - 'nav a:hover'
       - ['@25', 'nav li']
-      - ['@60', 'header']
-      - ['@60', 'h1']
